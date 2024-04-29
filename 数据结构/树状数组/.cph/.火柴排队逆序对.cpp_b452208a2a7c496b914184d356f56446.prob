@@ -1,0 +1,1 @@
+{"name":"Local: 火柴排队逆序对","url":"f:\\算法\\模板\\数据结构\\树状数组\\火柴排队逆序对.cpp","tests":[{"id":1710331523938,"input":"4\n2 3 1 4\n3 2 1 4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\算法\\模板\\数据结构\\树状数组\\火柴排队逆序对.cpp","group":"local","local":true}

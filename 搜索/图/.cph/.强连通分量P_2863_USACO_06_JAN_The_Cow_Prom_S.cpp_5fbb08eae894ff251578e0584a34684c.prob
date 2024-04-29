@@ -1,0 +1,1 @@
+{"name":"Local: 强连通分量P_2863_USACO_06_JAN_The_Cow_Prom_S","url":"f:\\算法\\模板\\搜索\\图\\强连通分量P_2863_USACO_06_JAN_The_Cow_Prom_S.cpp","tests":[{"id":1714007016091,"input":"5 4\n2 4\n3 5\n1 2\n4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\算法\\模板\\搜索\\图\\强连通分量P_2863_USACO_06_JAN_The_Cow_Prom_S.cpp","group":"local","local":true}

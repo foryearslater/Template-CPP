@@ -1,0 +1,1 @@
+{"name":"Local: Tree_Painting","url":"f:\\算法\\模板\\动态规划模板\\换根dp\\Tree_Painting.cpp","tests":[{"id":1713676741953,"input":"9\n1 2\n2 3\n2 5\n2 6\n1 4\n4 9\n9 7\n9 8","output":"36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\算法\\模板\\动态规划模板\\换根dp\\Tree_Painting.cpp","group":"local","local":true}
